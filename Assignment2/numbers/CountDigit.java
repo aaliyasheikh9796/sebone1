@@ -12,10 +12,10 @@ import java.util.Scanner;
 /*
  * methodname-Countdigit
  * objective:-Taking input from main class 
- * input parameter:-taking a num (number) as input
+ * @param:-this method takes 1 parameter
+ * @return:-int
  * */
-public class CountDigit 
-{
+public class CountDigit {
 	int count(int num)
 	{
 		int count=0;
